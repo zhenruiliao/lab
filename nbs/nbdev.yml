@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "lab"
+  site-url: "https://zhenruiliao.github.io/lab"
+  description: "test"
+  repo-branch: main
+  repo-url: "https://github.com/zhenruiliao/lab"
